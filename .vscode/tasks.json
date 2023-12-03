@@ -1,0 +1,17 @@
+// .vscode/tasks.json
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run index.js",
+        "type": "shell",
+        "command": "node",
+        "args": ["${workspaceFolder}/index.js"],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  

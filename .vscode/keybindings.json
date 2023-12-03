@@ -1,0 +1,9 @@
+// .vscode/keybindings.json
+[
+    {
+      "key": "ctrl+5",
+      "command": "workbench.action.tasks.runTask",
+      "args": "Run index.js"
+    }
+  ]
+  
